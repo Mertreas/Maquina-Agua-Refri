@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/The Greatest/Documents/Maquina/Maquina/simulation/modelsim
+Emaquina
+Z1 w1638724010
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z7 8C:/Users/The Greatest/Documents/Maquina/Maquina/Maquina.vhd
+Z8 FC:/Users/The Greatest/Documents/Maquina/Maquina/Maquina.vhd
+l0
+L8 1
+V0JOV0ci9RSgdZ3U]g_>Wa1
+!s100 dl^:X`]KBWS3PJMHOfW`I1
+Z9 OV;C;2020.1;71
+31
+Z10 !s110 1638724053
+!i10b 1
+Z11 !s108 1638724053.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/The Greatest/Documents/Maquina/Maquina/Maquina.vhd|
+!s107 C:/Users/The Greatest/Documents/Maquina/Maquina/Maquina.vhd|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aopcoes
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 maquina 0 22 0JOV0ci9RSgdZ3U]g_>Wa1
+!i122 0
+l25
+L18 85
+VkUklBRL8Z`bO?>660>d6b2
+!s100 c=37FQB67G_h1C<994l_G1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+Z15 !s107 C:/Users/The Greatest/Documents/Maquina/Maquina/Maquina.vhd|
+!i113 1
+R13
+R14
